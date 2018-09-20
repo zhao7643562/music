@@ -1,0 +1,25 @@
+[{
+    "image": "/source/song_1.jpg",
+    "audio": "/source/song_1.mp3",
+    "song": "像风一样自由",
+    "album": "123",
+    "singer": "许巍",
+    "duration": 111,
+    "isLike": true
+}, {
+    "image": "/source/song_2.jpg",
+    "audio": "/source/song_2.mp3",
+    "song": "告白气球",
+    "album": "周杰伦",
+    "singer": "陈粒",
+    "duration": 222,
+    "isLike": true
+}, {
+    "image": "/source/song_3.jpg",
+    "audio": "/source/song_3.mp3",
+    "song": "测试歌曲",
+    "album": "123",
+    "singer": "佚名",
+    "duration": 333,
+    "isLike": false
+}]
